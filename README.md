@@ -31,8 +31,10 @@ An end-to-end sales analytics project — data cleaning, exploratory analysis, K
 
 ## 📈 GitHub Stats
 
-![Aagam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aagam0326&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aagam0326&layout=compact)
+![](https://github.com/Aagam0326/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/Aagam0326/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/Aagam0326/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/Aagam0326/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aagam0326)
 
 ## 📫 Connect with me
