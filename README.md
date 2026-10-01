@@ -37,10 +37,13 @@ A SQL-driven analysis of ~100K real Brazilian e-commerce orders on PostgreSQL, a
 ### ✈️ [Airline Delay Prediction System](https://github.com/Aagam0326/Airline_Delay_Prediction)
 An XGBoost classifier predicting whether a flight will be delayed, using carrier, route, scheduled departure time, distance, and day-of-week features — with an interactive Streamlit app for live predictions. Currently at 72% accuracy; actively working on improving precision/recall for the delayed class through imbalance handling, with SHAP explainability planned next.
 
+### 📊 Sales Performance Analysis & Forecasting *(in progress)*
+An end-to-end sales analytics project covering data cleaning, exploratory analysis, KPI visualization, and forecasting, with an additional model and SHAP-based interpretability planned. Repo coming soon.
+
 ## Currently
 
 - 🔧 Improving precision/recall on the "Delayed" class in the Airline Delay Prediction model
-- 📊 Planning a Sales Performance Analysis & Forecasting project (EDA, KPIs, forecasting, SHAP)
+- 📊 Building out the Sales Performance Analysis & Forecasting project
 - 🎯 Applying for data analyst / data scientist internships
 
 ## Connect with me
